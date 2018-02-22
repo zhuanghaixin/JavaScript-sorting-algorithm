@@ -1,26 +1,23 @@
-function bubbleSort(myArray){
-  var len = myArray.length;
-  var i;
-  var j;
-  var stop;
+var a=[3,2,4,5,1];
 
-  for (i = 0; i < len - 1; i++){
-    for (j = 0, stop = len - 1 - i; j < stop; j++){
-      if (myArray[j] > myArray[j + 1]){
-        swap(myArray, j, j + 1);
+function bubbleSort(array) {
+  var index=1;
+  while (index < a.length){
+    var i=0;
+    while(i<=a.length-1-index){
+      if(a[i]>a[i+1]){
+        t = a[i];
+        a[i]=a[i+1];
+        a[i+1]=t;
+
       }
+      i++;
     }
+    index++
   }
-
-  return myArray;
+  return array;
 }
 
-function swap(myArray, p1, p2){
-  var temp = myArray[p1];
-  myArray[p1] = myArray[p2];
-  myArray[p2] = temp;
-}
+console.log(bubbleSort(a));
 
-var a=[5,4,3,6,1,2];
-bubbleSort(a);
-console.log(a);
+
