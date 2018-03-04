@@ -9,17 +9,18 @@ length:5
 
 数组的长度 len <- a[length]
 还没排序部分的当前位置 i <- 1
-当前我们要考察元素的位置 j
+j保存元素temp应该插入的位置 j
 当前我们要考察的位置的值 temp
 
 while(i<a[length])
     j <- i
     temp <- a[j]
-    while(j>0 && a[j] < a[j-1])
-        //交换当前我们要考察元素的位置与我们已排序元素的位置
-        swap(a[j],a[j-1])
+    while(j>0 && a[j-1]>temp)
+
+        a[j] <- a[j-1]
         j <- j-1
     end
+    a[j] <- temp
     i <- i+1
 end
 
