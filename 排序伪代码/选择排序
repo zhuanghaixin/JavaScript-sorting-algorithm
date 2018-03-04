@@ -12,7 +12,7 @@ length:5
 while 轮数<a[length]-1
     最小值下标 <- 轮数
     左手指向的下标 <- 轮数
-    while 左手指向的下标 <= a[length]
+    while 左手指向的下标 < a[length]
         if a[左手指向的下标] < a[最小值下标]
             最小值下标 <- 左手指向的下标
         else
