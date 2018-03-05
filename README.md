@@ -9,8 +9,8 @@
 ![冒泡排序](http://p4895bd7a.bkt.clouddn.com//18-3-4/46522698.jpg)
 ### 程序流程图:
 ![冒泡排序](http://p4895bd7a.bkt.clouddn.com//18-2-23/39531417.jpg)
-### 伪代码:
-### 代码:
+### 伪代码:[冒泡排序](https://github.com/zhuanghaixin/JavaScript-sorting-algorithm/tree/master/%E6%8E%92%E5%BA%8F%E4%BC%AA%E4%BB%A3%E7%A0%81)
+### 代码:[冒泡排序](https://github.com/zhuanghaixin/JavaScript-sorting-algorithm/blob/master/%E6%8E%92%E5%BA%8F%E4%BB%A3%E7%A0%81/%E5%86%92%E6%B3%A1%E6%8E%92%E5%BA%8F.js)
 ## 2.选择排序(体育老师一指禅法)
 ### 概述:
 >选择排序（Selection Sort）与冒泡排序类似，也是依次对相邻的数进行两两比较。
@@ -19,8 +19,8 @@
 ![选择排序](http://p4895bd7a.bkt.clouddn.com//18-3-4/40140677.jpg)
 ### 程序流程图:
 ![选择排序](http://p4895bd7a.bkt.clouddn.com//18-2-23/66800355.jpg)
-### 伪代码:
-### 代码:
+### 伪代码:[选择排序](https://github.com/zhuanghaixin/JavaScript-sorting-algorithm/blob/master/%E6%8E%92%E5%BA%8F%E4%BC%AA%E4%BB%A3%E7%A0%81/%E9%80%89%E6%8B%A9%E6%8E%92%E5%BA%8F)
+### 代码:[选择排序](https://github.com/zhuanghaixin/JavaScript-sorting-algorithm/blob/master/%E6%8E%92%E5%BA%8F%E4%BB%A3%E7%A0%81/%E9%80%89%E6%8B%A9%E6%8E%92%E5%BA%8F.js)
 ## 3.1直接插入排序
 ### 概述:
 > <br>1.从第一个元素开始，该元素可以认为已经被排序
@@ -32,8 +32,8 @@
 ### 示意图:
 ### 程序流程图:
 ![直接插入排序](http://on-img.com/chart_image/5a901ea8e4b064e9ddc98816.png)
-### 伪代码:
-### 代码:
+### 伪代码:[插入排序](https://github.com/zhuanghaixin/JavaScript-sorting-algorithm/blob/master/%E6%8E%92%E5%BA%8F%E4%BC%AA%E4%BB%A3%E7%A0%81/%E6%8F%92%E5%85%A5%E6%8E%92%E5%BA%8F)
+### 代码:[插入排序](https://github.com/zhuanghaixin/JavaScript-sorting-algorithm/blob/master/%E6%8E%92%E5%BA%8F%E4%BB%A3%E7%A0%81/%E6%8F%92%E5%85%A5%E6%8E%92%E5%BA%8F.js)
 ## 3.2插入排序(起扑克牌法)
 ### 概述:
 >它将数组分成“已排序”和“未排序”两部分，一开始的时候，“已排序”的部分只有一个元素，然后将它后面一个元素从“未排序”部分插入“已排序”部分，从而“已排序”部分增加一个元素，“未排序”部分减少一个元素。以此类推，完成全部排序。
@@ -47,8 +47,8 @@
 ![插入排序](http://p4895bd7a.bkt.clouddn.com//18-3-4/64902033.jpg)
 ### 程序流程图:
 ![](http://p4895bd7a.bkt.clouddn.com//18-3-4/65749444.jpg)
-### 伪代码:
-### 代码:
+### 伪代码:[插入排序改进](https://github.com/zhuanghaixin/JavaScript-sorting-algorithm/blob/master/%E6%8E%92%E5%BA%8F%E4%BC%AA%E4%BB%A3%E7%A0%81/%E6%8F%92%E5%85%A5%E6%8E%92%E5%BA%8F%E6%94%B9%E8%BF%9B)
+### 代码:[插入排序改进](https://github.com/zhuanghaixin/JavaScript-sorting-algorithm/blob/master/%E6%8E%92%E5%BA%8F%E4%BB%A3%E7%A0%81/%E6%8F%92%E5%85%A5%E6%8E%92%E5%BA%8F%E6%94%B9%E8%BF%9B.js)
 ## 4.计数排序(强迫症收扑克牌法)
 ### 概述:
 >
@@ -56,8 +56,8 @@
 ![计数排序](http://p4895bd7a.bkt.clouddn.com//18-3-4/52051500.jpg)
 ### 程序流程图:
 ![计数排序](http://p4895bd7a.bkt.clouddn.com//18-3-6/48807017.jpg)
-### 伪代码:
-### 代码:
+### 伪代码:[计数排序](https://github.com/zhuanghaixin/JavaScript-sorting-algorithm/blob/master/%E6%8E%92%E5%BA%8F%E4%BC%AA%E4%BB%A3%E7%A0%81/%E8%AE%A1%E6%95%B0%E6%8E%92%E5%BA%8F)
+### 代码:[计数排序](https://github.com/zhuanghaixin/JavaScript-sorting-algorithm/blob/master/%E6%8E%92%E5%BA%8F%E4%BB%A3%E7%A0%81/%E8%AE%A1%E6%95%B0%E6%8E%92%E5%BA%8F.js)
 ## 5.1快速排序
 ### 概述:
 >
