@@ -9,7 +9,7 @@
 ![冒泡排序](http://p4895bd7a.bkt.clouddn.com//18-3-4/46522698.jpg)
 ### 程序流程图:
 ![冒泡排序](http://p4895bd7a.bkt.clouddn.com//18-2-23/39531417.jpg)
-### 伪代码:[冒泡排序](https://github.com/zhuanghaixin/JavaScript-sorting-algorithm/tree/master/%E6%8E%92%E5%BA%8F%E4%BC%AA%E4%BB%A3%E7%A0%81)
+### 伪代码:[冒泡排序](https://github.com/zhuanghaixin/JavaScript-sorting-algorithm/blob/master/%E6%8E%92%E5%BA%8F%E4%BC%AA%E4%BB%A3%E7%A0%81/%E5%86%92%E6%B3%A1%E6%8E%92%E5%BA%8F)
 ### 代码:[冒泡排序](https://github.com/zhuanghaixin/JavaScript-sorting-algorithm/blob/master/%E6%8E%92%E5%BA%8F%E4%BB%A3%E7%A0%81/%E5%86%92%E6%B3%A1%E6%8E%92%E5%BA%8F.js)
 ## 2.选择排序(体育老师一指禅法)
 ### 概述:
