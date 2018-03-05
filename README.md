@@ -55,7 +55,7 @@
 ### 示意图:
 ![计数排序](http://p4895bd7a.bkt.clouddn.com//18-3-4/52051500.jpg)
 ### 程序流程图:
-![计数排序](http://on-img.com/chart_image/5a9c0ffde4b0a9d22eb495a5.png)
+![计数排序](http://p4895bd7a.bkt.clouddn.com//18-3-6/48807017.jpg)
 ### 伪代码:
 ### 代码:
 ## 5.1快速排序
